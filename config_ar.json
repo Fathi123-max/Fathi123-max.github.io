@@ -894,4 +894,9 @@
 			}
 		],
 		"expandedItems": []
-	}}
+	},
+	"overrideTranslation": {
+		"aboutUs": "عن التطبيق",
+		"@@locale": "ar"
+	}
+}
